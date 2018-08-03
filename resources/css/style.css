@@ -8,24 +8,21 @@ body{
 }
 a:link {
   color: white;
+  font-weight: bold;
+}
+a:visited{
+  color: white;
+  font-weight: Bold;
 }
 
 /* Header */
 .container {
-    position: relative;
-    color: white;
-}
-.centered {
-  position: absolute;
-  top: 0px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.nav {
-  position: absolute;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right center;
+  text-align: center;
+  color: white;
 }
 ul{
   list-style-type: none;
