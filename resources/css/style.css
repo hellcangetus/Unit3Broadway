@@ -1,0 +1,13 @@
+body{
+  font-family: "helvetica", sans-serif;
+  text-align: center;
+  align-content: center;
+
+}
+ul{
+  list-style-type: none;
+}
+
+.color{
+  color: white;
+}
